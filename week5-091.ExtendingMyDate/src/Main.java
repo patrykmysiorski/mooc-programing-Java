@@ -6,7 +6,7 @@ public class Main {
         System.out.println(data);
         data.advance();
         System.out.println(data);
-        data.advance();
+        data.advance(5);
         System.out.println(data);
     }
 }

@@ -43,4 +43,10 @@ public class MyDate {
         }
     }
 
+    public void advance(int numberofDays){
+        for(int i = 0; i < numberofDays; i++){
+            advance();
+        }
+    }
+
 }
