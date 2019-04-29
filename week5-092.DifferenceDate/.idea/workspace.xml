@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53a523c0-f0e0-4940-b408-1496a4645532" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="cb30f1b9-0dc8-4716-8ed7-d6e9cf485607" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../week5-091.ExtendingMyDate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week5-091.ExtendingMyDate/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="25">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyDate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+            <state relative-caret-position="792">
+              <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -40,7 +40,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/MyDate.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -55,28 +54,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="C:\Users\Patryk\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week5-091.ExtendingMyDate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week5-091.ExtendingMyDate" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Users\Patryk\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week5-092.DifferenceDate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5-092.DifferenceDate" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="C:\Users\Patryk\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week5-091.ExtendingMyDate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week5-091.ExtendingMyDate" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Users\Patryk\Documents\IdeaProjects\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week5-092.DifferenceDate" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week5-092.DifferenceDate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556553410355" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556554367807" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -93,7 +92,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="week5-091.ExtendingMyDate" />
+      <module name="week5-092.DifferenceDate" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -109,11 +108,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="53a523c0-f0e0-4940-b408-1496a4645532" name="Default Changelist" comment="" />
-      <created>1556551915899</created>
+      <changelist id="cb30f1b9-0dc8-4716-8ed7-d6e9cf485607" name="Default Changelist" comment="" />
+      <created>1556553925305</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1556551915899</updated>
+      <updated>1556553925305</updated>
     </task>
     <servers />
   </component>
@@ -126,16 +125,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="TMC Test Results" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -155,15 +153,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/MyDate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        <state relative-caret-position="792">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        <state relative-caret-position="25">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
